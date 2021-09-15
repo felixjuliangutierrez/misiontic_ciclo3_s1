@@ -6,3 +6,4 @@ En este repo vamos a inicializarnos con el uso de git
 
 Esta línea fue creada por Andrés
 
+Esta en cambio fue agregada por Daniel
